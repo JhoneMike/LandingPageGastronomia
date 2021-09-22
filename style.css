@@ -1,0 +1,19 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    margin: 0 auto;
+    text-align: center;
+    background: #59429d;
+}
+
+header div h1{
+    display: inline-block;
+    font-size: 40px;
+    vertical-align: auto;
+}
+
+.img-chef1{
+    width: 150px;
+}
